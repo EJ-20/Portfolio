@@ -930,6 +930,22 @@ input, select, textarea {
 
 /* Table */
 
+/* test */
+
+    .left{
+
+    display: inline-block;
+    text-align: center;
+    margin-right: 100px;
+    }
+
+    .right{
+    display: inline-block;
+    text-align: center;
+    }
+
+
+
 	.table-wrapper {
 		-webkit-overflow-scrolling: touch;
 		overflow-x: auto;
